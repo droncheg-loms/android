@@ -1,5 +1,5 @@
-LineageOMS
-==========
+LineageSubstratum
+=================
 
 WTF is this?
 ------------
@@ -12,9 +12,9 @@ Getting Started
 To get started with Android/LineageOS, you'll need to get
 familiar with [Git and Repo](https://source.android.com/source/using-repo.html).
 
-To initialize your local repository using the LineageOMS trees, use a command like this:
+To initialize your local repository using the LineageSubstratum trees, use a command like this:
 
-    repo init -u https://github.com/LineageOMS/android.git -b cm-14.1 --no-clone-bundle --depth=1
+    repo init -u https://github.com/LineageSubstratum/android.git -b cm-14.1 --no-clone-bundle --depth=1
 
 Then to sync up:
 
