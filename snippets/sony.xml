@@ -9,5 +9,6 @@
   <project path="kernel/sony/kugo" name="droncheg/android_kernel_sony_kugo" remote="github" revision="34.3.A.0.xxx" />
   <project path="device/sony/kugo" name="droncheg/android_device_sony_kugo" remote="github" />
   <project path="device/sony/loire-common" name="droncheg/android_device_sony_loire-common" remote="github" />
+  <project path="device/sony/common-aosp" name="droncheg/android_device_sony_common-aosp" remote="github" />
   
 </manifest>
