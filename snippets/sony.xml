@@ -12,4 +12,5 @@
   <project path="device/sony/kugo-orig" name="droncheg/device-sony-kugo-orig" remote="github" revision="master"/>
   <project path="device/sony/loire-common" name="droncheg/android_device_sony_loire-common" remote="github" />
   <project path="device/sony/common-aosp" name="droncheg/android_device_sony_common-aosp" remote="github" />
+  <project path="vendor/sony/loire-common" name="droncheg/vendor-kugo/loire-common" remote="github" />  
   </manifest>
