@@ -13,5 +13,14 @@
   <project path="device/sony/loire-common" name="droncheg/android_device_sony_loire-common" remote="github" />
   <project path="device/sony/common-aosp" name="droncheg/android_device_sony_common-aosp" remote="github" />
   <project path="vendor/sony-kugo" name="droncheg/vendor-kugo" remote="github" revision="choose-7.1" />  
-  <project path="device/sony/sepolicy" name="droncheg/kugo-sepolicy" remote="github" />
-  </manifest>
+  <project path="device/sony/sepolicy" name="sonyxperiadev/device-sony-sepolicy"  remote="github" revision="n-mr1" />
+  <project name="LineageOS/android_hardware_sony_thermanager" path="hardware/sony/thermanager" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_hardware_sony_macaddrsetup" path="hardware/sony/macaddrsetup" remote="github" revision="cm-14.1" />
+  <project name="sonyxperiadev/vendor-qcom-opensource-dataservices" path="hardware/sony/dataservices" remote="github" revision="master" />
+  <project name="sonyxperiadev/vendor-qcom-opensource-location" path="hardware/sony/location" remote="github" revision="master" />
+  <project name="SonyAosp/vendor_broadcom" path="vendor/broadcom" remote="github" revision="android-7.0" />
+  <project name="SonyAosp/vendor_nxp" path="vendor/nxp" remote="github" revision="android-7.0" />
+  <project name="SonyAosp/vendor_qcom" path="vendor/qcom" remote="github" revision="android-7.0" />
+  <project name="SonyAosp/vendor_qcom_firmware" path="vendor/qcom/firmware" remote="github" revision="android-7.0" />
+</manifest>
