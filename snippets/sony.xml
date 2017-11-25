@@ -26,10 +26,10 @@
   <remove-project name="LineageOS/android_hardware_qcom_audio" />
   <remove-project name="LineageOS/android_hardware_qcom_display" />
   <remove-project name="LineageOS/android_hardware_qcom_media" />
-  <remove-project name="LineageOS/android_packages_apps_FMRadio" />
+<!--  <remove-project name="LineageOS/android_packages_apps_FMRadio" /> -->
   <project name="SonyLOS/android_hardware_qcom_audio" path="hardware/qcom/audio/default" remote="github" revision="cm-14.1" />
   <project name="SonyLOS/android_hardware_qcom_display" path="hardware/qcom/display" remote="github" revision="cm-14.1" />
   <project name="SonyLOS/android_hardware_qcom_media" path="hardware/qcom/media" remote="github" revision="cm-14.1" />
   <project name="SonyLOS/android_hardware_sony_camera" path="hardware/sony/camera" remote="github" revision="cm-14.1" />
-  <project name="SonyLOS/android_packages_apps_FMRadio" path="packages/apps/FMRadio" remote="github" revision="cm-14.1" />
+<!--  <project name="SonyLOS/android_packages_apps_FMRadio" path="packages/apps/FMRadio" remote="github" revision="cm-14.1" /> -->
 </manifest>
